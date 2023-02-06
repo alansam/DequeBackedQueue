@@ -18,6 +18,8 @@ auto clc_show = [](auto & clc, auto const & tt) {
   std::cout << std::endl;
 };
 
+static
+constexpr
 auto q_show = [](auto & q_, auto const & tt) {
   std::cout << tt;
   for (auto e_ { 0ul }; e_ < q_.size(); ++e_) {
