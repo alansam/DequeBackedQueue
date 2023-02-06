@@ -1,3 +1,8 @@
+//  This is free and unencumbered software
+//  released into the public domain.
+//  @see  LICENSE.md
+//  @see  https://unlicense.org
+
 #include <iostream>
 #include <iomanip>
 #include <string>
